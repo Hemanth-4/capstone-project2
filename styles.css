@@ -1,0 +1,134 @@
+#cloud1{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    
+
+}
+#cloud2{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    
+
+}
+h1{
+    font-size:  5rem;  
+    margin: 0 auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 1.5rem;
+    margin: 0 auto 0 auto;
+    
+}
+.name-profession{
+    
+   color: #66bfbf;
+   text-align: center;
+   max-height: 0%;
+   margin-bottom: 250px;
+   margin-top: 100px;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+}
+body{
+    text-align: center;
+    margin: 0%;
+}
+h2,h3{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-family:"Montserrat", sans-serif;
+    font-weight: lighter;
+}
+h3{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.Hello > p{
+    font-size: 1.5rem;
+    
+}
+.pro-pic{
+    margin-top: 50px;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skills> h2{
+    margin: 100px auto;
+}
+.coding>h3{
+    font-weight: bolder;
+}
+.coding>p{
+    font-size: 1.8rem;
+    
+}
+.hot-wings>h3{
+font-weight: bolder;
+}
+.hot-wings>p{
+    font-size: 1.8rem;
+    
+}
+.parent{
+    display: grid;
+    align-content: normal;
+    justify-content: normal;
+    align-items: normal;
+    justify-items: normal;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+
+}
+.btn{
+    background-color: #11cdd4;
+    color: whitesmoke;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px auto;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    border-color:#11cdd4;
+
+}
+.getintouch{
+    margin: 100px 0;
+
+}
+.getintouch >p{
+    margin:50px auto;
+    
+}
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
